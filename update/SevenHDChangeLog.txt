@@ -65,3 +65,10 @@ Version: 3.6.47
 + color preview
 + small cosmetic fixes
 + signal strengh (change btw. snr and db)
+
+Version: 3.6.48
++ added faq
++ added user color
++ fix weatherfont
+
+

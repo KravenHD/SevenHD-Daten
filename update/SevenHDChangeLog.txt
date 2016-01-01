@@ -70,5 +70,13 @@ Version: 3.6.48
 + added faq
 + added user color
 + fix weatherfont
++ change download to GIT
++ fix ecm converter
++ fix bug
++ added line left, middle and right
++ added border left, middle and right
 
+Version: 3.6.49
++ added screens for openNFR
++ Fix Request fail
 

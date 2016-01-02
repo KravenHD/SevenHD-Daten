@@ -80,3 +80,9 @@ Version: 3.6.49
 + added screens for openNFR
 + Fix Request fail
 
+Version: 3.6.50
++ added screens for openNFR
++ added screens for opemHDF
++ cosmetic fixes
++ new weather provider
+

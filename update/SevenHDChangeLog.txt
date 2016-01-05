@@ -82,7 +82,15 @@ Version: 3.6.49
 
 Version: 3.6.50
 + added screens for openNFR
-+ added screens for opemHDF
++ added screens for openHDF
 + cosmetic fixes
 + new weather provider
+
+Version: 3.6.50
++ sib: changed fontsize
++ added new channelselection
++ cosmetic fixes
++ new weather provider
+
+
 

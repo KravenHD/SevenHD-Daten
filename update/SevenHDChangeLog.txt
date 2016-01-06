@@ -86,7 +86,7 @@ Version: 3.6.50
 + cosmetic fixes
 + new weather provider
 
-Version: 3.6.50
+Version: 3.6.51
 + sib: changed fontsize
 + added new channelselection
 + cosmetic fixes

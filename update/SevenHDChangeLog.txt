@@ -92,5 +92,11 @@ Version: 3.6.51
 + cosmetic fixes
 + new weather provider
 
-
+Version: 3.6.52
++ added msn weatherplugin
++ some fixes
++ cosmetic fixes
++ new weather converter
++ adden new SIB
++ fixed SvenHD update
 

@@ -1,85 +1,3 @@
-Version: 3.6.11
-+ new Renderer and Converter
-+ change Skin
-+ many fixes
-
-Version: 3.6.12
-+ update converter
-
-Version: 3.6.13
-+ update emc
-+ update weather
-+ update renderer
-
-Version: 3.6.20
-+ delete z-picon, zz-picon and zzz-picon
-+ new sib
-+ new ib´s
-+ new screens for extnumberzap
-+ new weather converter
-+ many small fixes
-+ new backgrounds
-+ fixes for openmips
-
-Version: 3.6.21
-+ small cosmetic fixes
-
-Version: 3.6.30
-+ small cosmetic fixes
-+ added AutomaticVolumeAdjustmentConfigScreen
-+ added 3D AutoSwitch
-+ fixes for openHDF
-+ new ChannelSelection
-+ fix index out of range for solo4k
-
-Version: 3.6.40
-+ series recorder
-+ font style
-+ font size
-+ small fixes
-+ new ib
-+ new clock
-
-Version: 3.6.41
-+ plugin description
-+ new timereditist
-
-Version: 3.6.42
-+ new weather server: openweathermap
-+ fix onlineupdate
-
-Version: 3.6.45
-+ update plugins
-+ cosmetic fixes
-
-Version: 3.6.46
-+ fhd fix for hdf toolbox
-+ added emc minitv 2
-+ new runningtext setup
-+ new transparency setup
-+ cosmetic fixes
-
-Version: 3.6.47
-+ fixed screens for om
-+ new weatherserver (msn)
-+ color preview
-+ small cosmetic fixes
-+ signal strengh (change btw. snr and db)
-
-Version: 3.6.48
-+ added faq
-+ added user color
-+ fix weatherfont
-+ change download to GIT
-+ fix ecm converter
-+ fix bug
-+ added line left, middle and right
-+ added border left, middle and right
-
-Version: 3.6.49
-+ added screens for openNFR
-+ Fix Request fail
-
 Version: 3.6.50
 + added screens for openNFR
 + added screens for openHDF
@@ -108,3 +26,6 @@ Version: 3.6.53
 + added font settings
 + weather converter fixes
 
+Version: 3.6.54
++ fix MSN-Weather-Plugin
++ update FAQ

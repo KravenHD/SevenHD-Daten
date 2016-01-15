@@ -100,3 +100,11 @@ Version: 3.6.52
 + adden new SIB
 + fixed SvenHD update
 
+Version: 3.6.53
++ new EMC Screens
++ new MovieSelection Screens
++ cosmetic fixes
++ some fixes
++ added font settings
++ weather converter fixes
+

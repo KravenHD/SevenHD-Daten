@@ -29,3 +29,21 @@ Version: 3.6.53
 Version: 3.6.54
 + fix MSN-Weather-Plugin
 + update FAQ
+
+Version: 3.6.55
++ added new IB
++ added new SIB
++ added new weather screen
++ fixed some screens
++ small cosmetic fixes
++ wetaher converter fixes
+
+Version: 3.6.56
++ added Alpatros-Plugin
++ added MediaPortal-Plugin
++ added new colors
++ rebuild weather request
+
+Version: 3.6.57
++ added flip-clock
++ cosmetic fixes

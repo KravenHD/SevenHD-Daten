@@ -47,3 +47,20 @@ Version: 3.6.56
 Version: 3.6.57
 + added flip-clock
 + cosmetic fixes
+
+Version: 3.6.58
++ added circle-clock
++ added circle-seconds--clock
++ cosmetic fixes
++ new converter
+
+Version: 3.6.59
++ changed fontsettings
++ many modifications
++ added crossepg
++ added yamp
++ added seriesplugin
++ added transcodingsetup
++ cosmetics
+
+

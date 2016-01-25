@@ -64,4 +64,10 @@ Version: 3.6.59
 + added transcodingsetup
 + cosmetics
 
+Version: 3.6.60
++ added new infobar
++ cs 2 columns: added orbital position
++ emc: small cosmetic fixes
++ added new renderer
++ added new channelselection
 

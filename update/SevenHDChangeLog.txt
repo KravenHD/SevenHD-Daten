@@ -71,3 +71,5 @@ Version: 3.6.60
 + added new renderer
 + added new channelselection
 
+Version: 3.6.61
++ weather fixes

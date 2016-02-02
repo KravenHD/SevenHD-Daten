@@ -23,3 +23,10 @@ Version: 3.6.63
 + new screens for epgselection
 + new screens for timeredit
 + cosmetics
+
+Version: 3.6.64
++ cosmetics
++ new screens
++ new sib
++ new channelselections
++ graphical epg preview

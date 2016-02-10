@@ -30,3 +30,31 @@ Version: 3.6.64
 + new sib
 + new channelselections
 + graphical epg preview
+
+Version: 3.6.65
++ added MovieThumb
++ added fanart
++ new selection for infobar
++ new selection for sib
+
+Version: 3.6.66
++ added new epg-sytle
++ added new infobar
++ added new channelselection one column
++ added new movieselection
+
+Version: 3.6.67
++ added new pig-renderer for preview, dual-tv an extended preview
++ new channelselection extended preview
++ update albatros skin
+
+Version: 3.6.68
++ added channelselection two columns 11
++ added channelselection two columns 13
++ added channelselection two columns 16
++ added channelselection two columns 18
+
+Version: 3.6.69
++ weather fixed
++ nfr-cam-manager fix
++ cosmetics

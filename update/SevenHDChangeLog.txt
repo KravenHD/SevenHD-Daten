@@ -55,6 +55,12 @@ Version: 3.6.68
 + added channelselection two columns 18
 
 Version: 3.6.69
-+ weather fixed
++ weather fix
 + nfr-cam-manager fix
++ cosmetics
+
+Version: 3.6.70
++ weather fix
++ fanart update
++ new channelselection
 + cosmetics

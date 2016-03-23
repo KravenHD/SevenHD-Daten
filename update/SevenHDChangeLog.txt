@@ -34,8 +34,16 @@ Version: 3.6.75
 + added cs dualtv and preview for giga and os
 + added new screens for programmlisten-updater
 
-Version: 3.6.7
+Version: 3.6.76
 + added gradient
 + update mediaportal
 + update albatros
 + many fixes
+
+Version: 3.6.77
++ fix ib 5-13
++ fix moviethumb
++ fix epg preview
++ fix clock-weather-icon
++ fix cs one column
+

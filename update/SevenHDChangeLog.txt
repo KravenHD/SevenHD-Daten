@@ -47,3 +47,8 @@ Version: 3.6.77
 + fix clock-weather-icon
 + fix cs one column
 
+Version: 3.6.78
++ update MediaInfo
++ update MediaPortal
++ cosmetics
++ small fixes

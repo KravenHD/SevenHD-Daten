@@ -1,58 +1,3 @@
-Version: 3.6.70
-+ weather fix
-+ fanart update
-+ new channelselection
-+ cosmetics
-
-Version: 3.6.71
-+ new icons
-+ added colorchange for sysinfo, satinfo, ecminfo and weather
-+ cosmetics
-+ small fixes
-
-Version: 3.6.72
-+ added new screen for emcmediacenter
-+ added new extra change for emcmediacenter
-+ added new screen for eventview
-+ added new screen for epgselection
-+ fix cooltv
-
-Version: 3.6.73
-+ fix weather
-+ added option for user weather icons
-+ fix webradio
-
-Version: 3.6.74
-+ new clock
-+ added menu icons
-+ added option for user menu icons
-+ added new channelselections
-+ added programmlisten-updater
-
-Version: 3.6.75
-+ ib 12 revised
-+ added cs dualtv and preview for giga and os
-+ added new screens for programmlisten-updater
-
-Version: 3.6.76
-+ added gradient
-+ update mediaportal
-+ update albatros
-+ many fixes
-
-Version: 3.6.77
-+ fix ib 5-13
-+ fix moviethumb
-+ fix epg preview
-+ fix clock-weather-icon
-+ fix cs one column
-
-Version: 3.6.78
-+ update MediaInfo
-+ update MediaPortal
-+ cosmetics
-+ small fixes
-
 Version: 3.6.82
 + added HD51
 + fix EPG-Importer
@@ -62,5 +7,10 @@ Version: 3.6.82
 + added BootlogoSelector by Stony272
 + added RadiologoSelector by Stony272
 + added BootlogoKidsSelector by Stony272
+
+Version: 3.6.83
++ fix IB and SIB´s Style 6
+
+
 
 
